@@ -1,0 +1,11 @@
+version: "2"
+
+
+services:
+  app:
+    build: .
+    image: sandbox/gymtrader
+    volumes:
+      - .:/usr/local/gym
+    environment:
+      MPLBACKEND: module://itermplot

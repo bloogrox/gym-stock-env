@@ -1,0 +1,82 @@
+# gym
+# stable-baselines3[extra]
+# yfinance
+# tabulate
+# matplotlib==3.2.2
+# itermplot
+# statsmodels
+# optuna
+absl-py==0.12.0
+alembic==1.5.8
+atari-py==0.2.6
+attrs==20.3.0
+cachetools==4.2.2
+certifi==2020.12.5
+chardet==4.0.0
+cliff==3.7.0
+cloudpickle==1.6.0
+cmaes==0.8.2
+cmd2==1.5.0
+colorama==0.4.4
+colorlog==5.0.1
+cycler==0.10.0
+future==0.18.2
+google-auth==1.30.0
+google-auth-oauthlib==0.4.4
+greenlet==1.0.0
+grpcio==1.37.1
+gym==0.18.0
+idna==2.10
+itermplot==0.331
+kiwisolver==1.3.1
+lxml==4.6.3
+Mako==1.1.4
+Markdown==3.3.4
+MarkupSafe==1.1.1
+matplotlib==3.2.2
+multitasking==0.0.9
+numpy==1.20.2
+oauthlib==3.1.0
+opencv-python==4.5.1.48
+optuna==2.7.0
+packaging==20.9
+pandas==1.2.4
+patsy==0.5.1
+pbr==5.6.0
+Pillow==7.2.0
+prettytable==2.1.0
+protobuf==3.15.8
+psutil==5.8.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pyglet==1.5.0
+pyparsing==2.4.7
+pyperclip==1.8.2
+python-dateutil==2.8.1
+python-editor==1.0.4
+pytz==2021.1
+PyYAML==5.4.1
+requests==2.25.1
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scipy==1.6.3
+six==1.15.0
+SQLAlchemy==1.4.12
+stable-baselines3==1.0
+statsmodels==0.12.2
+stevedore==3.3.0
+tabulate==0.8.9
+tensorboard==2.5.0
+tensorboard-data-server==0.6.0
+tensorboard-plugin-wit==1.8.0
+torch
+# torch @ file:///usr/local/gym/torch-1.8.1-cp39-cp39-manylinux1_x86_64.whl
+tqdm==4.60.0
+typing-extensions==3.10.0.0
+urllib3==1.26.4
+wcwidth==0.2.5
+Werkzeug==1.0.1
+yfinance==0.1.59
+watchdog[watchmedo]
+seaborn
+sklearn
